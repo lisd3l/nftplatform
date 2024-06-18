@@ -1,0 +1,44 @@
+{
+  "NFT721": {
+    "address": "0x761A263e20eB61De1B7fd4e91c9c77dBED8aC5b5"
+  },
+  "NFT1155": {
+    "address": "0x5fb6F0b04FD12E39DF92E6c22d08420D19C6E397"
+  },
+  "transferProxy": {
+    "address": "0x63eA1078f81bB4DFaCd388918Bb72bE43CeA62c6"
+  },
+  "transferProxyForDeprecated": {
+    "address": "0x6F72Ac5323c4B148d2F00ddbb8Fa8f65e9607dd0"
+  },
+  "erc20TransferProxy": {
+    "address": "0x4ADf8aEc54A359E12e9657c3f219Ed2667086494"
+  },
+  "exchangeState": {
+    "address": "0x58b261d667AA7671AA5B5BB19fD9310877C272C7"
+  },
+  "exchangeOrderHolder": {
+    "address": "0xAd308fD89344a04399F0f8c332c0f29fdC12Ee4e"
+  },
+  "exchange": {
+    "address": "0xBC7De12e47c31f18aAAA62d6Df0b305616280F38"
+  },
+  "blindState": {
+    "address": "0x16351d8aa4044E172be109141f6c9F06bef4D040"
+  },
+  "copyERC721": {
+    "address": "0xB625A576d1318109CA8ca623b3cE73bc689DB4c1"
+  },
+  "blindBox": {
+    "address": "0xe7a4c56bC4ae05e3f51482F1571f6a5aaF4c0bb6"
+  },
+  "auctionState": {
+    "address": "0x7125a61403c4fb5C3d6149E85602CD0605E8Dd5A"
+  },
+  "auctionExchange": {
+    "address": "0xE10142eA27E73C6b7A3a264D84578bD5BdAafbdd"
+  },
+  "multicall": {
+    "address": "0x58B6925B654085360FF1f6355E8FddC6311551D5"
+  }
+}

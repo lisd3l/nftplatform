@@ -1,2 +1,6 @@
-# nftplatform
-NFT Platform
+### doc
+
+https://fingernft-doc.fingerchar.com/
+
+
+
